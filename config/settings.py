@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-ruvr@fx(i+1cagj^y427q1uj^1egj3u1(_qt@-7dv52b0vb@0d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['formulairedjango.onrender.com']
 
 # Application definition
 
