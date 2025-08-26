@@ -1,0 +1,27 @@
+.env.local
+.env.prod
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+
+# Environments
+.venv/
+env/
+ENV/
+
+# Django
+*.sqlite3
+/staticfiles/
+media/
+
+# dotenv
+.env.local
+.env.prod
+
+# IDE
+.vscode/
+.idea/
