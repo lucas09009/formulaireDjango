@@ -85,7 +85,7 @@ import os
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'formDatabase',
+        'NAME': 'formdatabase_1p6v',
         'USER': 'formdatabase_1p6v_user',
         'PASSWORD': '0IFXTf09ZXIb04oHq4wf8SYTQ2nzQi15',
         'HOST': 'dpg-d2mqt0ur433s73b0jh10-a',
